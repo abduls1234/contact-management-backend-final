@@ -1,4 +1,3 @@
-Project Title:
 # Contact Management Backend
 
 ## Description
